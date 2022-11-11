@@ -256,8 +256,15 @@ footer {
         padding: 0;
     }
 
+    #times > div {
+        width: 100%;
+    }
+
     hr {
         display: none;
+        clear: both;
+        height: 150px;
+        padding: 0;
     }
 }
 
